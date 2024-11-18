@@ -20,7 +20,7 @@ Seu principal objetivo é rebater a bolinha para o outro lado e fazer pontos.Qua
 <br>
 Link do projeto: O projeto se encontra hospedado nesse [link](https://vercel.com/enricos-projects-e03258b6/ping-pong-projet-755u) através do Vercel.app.
 
-<img src="assets/PING-PONG-03-10-2024(1).png">
+<img src="assets/PING-PONG-03-10-2024 (1).png">
 
 
 Desenvolvido por **Enrico Lima**
