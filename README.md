@@ -18,4 +18,9 @@ Seu principal objetivo é rebater a bolinha para o outro lado e fazer pontos.Qua
 ## Deploy ##
 <br>
 <br>
-O deploy do aplicativo foi realizado através do Vercel.Para entrar, basta clicar 
+Link do projeto: O projeto se encontra hospedado nesse [link](https://vercel.com/enricos-projects-e03258b6/ping-pong-projet-755u) através do Vercel.app.
+
+<img src="assets/RicoPP.jpg">
+
+
+Desenvolvido por **Enrico Lima**
